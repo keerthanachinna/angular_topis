@@ -1,0 +1,23 @@
+Routing -1
+Routing -2
+Routing -3
+
+
+Routing -1
+
+https://stackblitz.com/edit/angular-ivy-dtbgfc?file=src%2Fapp%2Fapp.routing.module.ts
+
+defining routes
+Router outlet
+Redirect
+
+Routing -2
+
+Navigate
+NavigateByUrl
+Reading params
+
+Routing -3
+canactive
+canactivechild
+canactive Redirect
